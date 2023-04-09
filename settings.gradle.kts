@@ -5,6 +5,7 @@ val modules = listOf(
     "starter",
     "common",
     "command",
+    "plugin"
 )
 
 fun addModule(name: String, dir: String = "modules/$name"){
